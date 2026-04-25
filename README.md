@@ -65,7 +65,7 @@ Runs the full pipeline on all languages. Saves all figures and tables to `./resu
 
 Optional flags:
 ```bash
-python main.py --data_dir ./data --results_dir ./results --max_sentences X
+python main.py --data_dir ./data --results_dir ./results --max_sentences x
 ```
 | Flag | Default | Description |
 |---|---|---|
