@@ -51,7 +51,7 @@ pip install -r requirements.txt
 ```bash
 bash download_data.sh
 ```
-Downloads SUD v2.17 treebanks for 11 languages from `grew.fr` into `./data/`.
+Downloads SUD v2.17 treebanks for 10 languages from `grew.fr` into `./data/`.
 
 ---
 
