@@ -161,7 +161,6 @@ Length-controlled second analysis:
 |---|---|---|
 | English | SUD_English-EWT | SVO, analytic |
 | Hindi | SUD_Hindi-HDTB | SOV, moderately inflected |
-| French | SUD_French-GSD | SVO, analytic |
 | German | SUD_German-GSD | SOV/V2, inflected |
 | Spanish | SUD_Spanish-GSD | SVO, inflected |
 | Chinese | SUD_Chinese-GSD | SVO, isolating |
